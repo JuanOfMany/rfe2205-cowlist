@@ -1,0 +1,19 @@
+{
+  "name": "rfe2205-cowlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanOfMany/rfe2205-cowlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanOfMany/rfe2205-cowlist/issues"
+  },
+  "homepage": "https://github.com/JuanOfMany/rfe2205-cowlist#readme"
+}
